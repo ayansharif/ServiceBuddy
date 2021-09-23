@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="55381" started-at="2021-09-23T19:01:05 PKT" finished-at="2021-09-23T19:02:00 PKT">
+    <groups>
+    </groups>
+    <test name="C:/Users/Ayan Sharif/IdeaProjects/ServiceBuddy" duration-ms="55381" started-at="2021-09-23T19:01:05 PKT" finished-at="2021-09-23T19:02:00 PKT">
+      <class name="LoginFail">
+        <test-method status="PASS" signature="setup()[pri:0, instance:LoginFail@419c5f1a]" name="setup" is-config="true" duration-ms="13189" started-at="2021-09-23T19:01:05 PKT" finished-at="2021-09-23T19:01:18 PKT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="login()[pri:1, instance:LoginFail@419c5f1a]" name="login" duration-ms="2573" started-at="2021-09-23T19:01:41 PKT" finished-at="2021-09-23T19:01:43 PKT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="getLoginFailText()[pri:2, instance:LoginFail@419c5f1a]" name="getLoginFailText" duration-ms="60" started-at="2021-09-23T19:01:43 PKT" finished-at="2021-09-23T19:01:43 PKT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getLoginFailText -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:LoginFail@419c5f1a]" name="quit" is-config="true" duration-ms="1327" started-at="2021-09-23T19:01:56 PKT" finished-at="2021-09-23T19:01:57 PKT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- LoginFail -->
+      <class name="LoginTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:LoginTest@769e7ee8]" name="setup" is-config="true" duration-ms="11071" started-at="2021-09-23T19:01:29 PKT" finished-at="2021-09-23T19:01:40 PKT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="LoginPage()[pri:1, instance:LoginTest@769e7ee8]" name="LoginPage" duration-ms="1101" started-at="2021-09-23T19:01:48 PKT" finished-at="2021-09-23T19:01:49 PKT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPage -->
+        <test-method status="PASS" signature="LoginFail()[pri:2, instance:LoginTest@769e7ee8]" name="LoginFail" duration-ms="2529" started-at="2021-09-23T19:01:49 PKT" finished-at="2021-09-23T19:01:52 PKT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginFail -->
+        <test-method status="PASS" signature="LoginFailText()[pri:3, instance:LoginTest@769e7ee8]" name="LoginFailText" duration-ms="70" started-at="2021-09-23T19:01:52 PKT" finished-at="2021-09-23T19:01:52 PKT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginFailText -->
+        <test-method status="PASS" signature="Login()[pri:4, instance:LoginTest@769e7ee8]" name="Login" duration-ms="3011" started-at="2021-09-23T19:01:52 PKT" finished-at="2021-09-23T19:01:55 PKT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="homepageTitle()[pri:5, instance:LoginTest@769e7ee8]" name="homepageTitle" duration-ms="1016" started-at="2021-09-23T19:01:55 PKT" finished-at="2021-09-23T19:01:56 PKT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepageTitle -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:LoginTest@769e7ee8]" name="quit" is-config="true" duration-ms="1298" started-at="2021-09-23T19:01:59 PKT" finished-at="2021-09-23T19:02:00 PKT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- LoginTest -->
+      <class name="LoginPage">
+        <test-method status="PASS" signature="setup()[pri:0, instance:LoginPage@12b0404f]" name="setup" is-config="true" duration-ms="11617" started-at="2021-09-23T19:01:18 PKT" finished-at="2021-09-23T19:01:29 PKT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:LoginPage@12b0404f]" name="openBrowser" duration-ms="5118" started-at="2021-09-23T19:01:43 PKT" finished-at="2021-09-23T19:01:48 PKT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:LoginPage@12b0404f]" name="quit" is-config="true" duration-ms="1334" started-at="2021-09-23T19:01:57 PKT" finished-at="2021-09-23T19:01:59 PKT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- LoginPage -->
+    </test> <!-- C:/Users/Ayan Sharif/IdeaProjects/ServiceBuddy -->
+  </suite> <!-- All Test Suite -->
+</testng-results>

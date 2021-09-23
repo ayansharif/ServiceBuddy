@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/Ayan Sharif/IdeaProjects/ServiceBuddy">
+        <classes>
+
+             <class name="LoginFail"/>
+            <class name="LoginPage"/>
+            <class name="LoginTest"/>
+
+
+            <!--            git remote add ayanOrigin https://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@github.com/ayansharif/ServiceBuddy.git   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-->
+
+
+        </classes>
+    </test>
+
+</suite>

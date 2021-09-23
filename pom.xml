@@ -29,7 +29,7 @@
                 <configuration>
                     <skipTests>false</skipTests>
                     <suiteXmlFiles>
-                        <suiteXmlFile>src/main/java/suites/xml/Maven_Suites.xml</suiteXmlFile>
+                        <suiteXmlFile>src/main/suites/testng.xml</suiteXmlFile>
                     </suiteXmlFiles>
                     <systemPropertyVariables>
                         <testng.dtd.http>true</testng.dtd.http>
